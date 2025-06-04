@@ -134,7 +134,7 @@ body {
     margin-right: var(--spacing-xs);
     background: var(--bg-gradient);
     border-radius: var(--radius-md);
-    padding: 8px;
+    padding: 2px;
 }
 
 .brand-text {
@@ -649,7 +649,7 @@ body {
     width: 40px;
     background: var(--bg-gradient);
     border-radius: var(--radius-md);
-    padding: 8px;
+    padding: 2px;
     margin-right: var(--spacing-sm);
 }
 
