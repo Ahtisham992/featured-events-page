@@ -1,10 +1,3 @@
-/**
- * EventDiscover - Professional Event Discovery Platform
- * JavaScript Application - Dynamics 360 Case Study
- * Author: Web Development Intern
- * Date: June 2025
- */
-
 // ===== GLOBAL VARIABLES =====
 let eventsData = [];
 let filteredEvents = [];
