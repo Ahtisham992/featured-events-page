@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "React Developer Meetup 2025",
+    "date": "2025-06-15",
+    "time": "6:00 PM",
+    "location": "Tech Hub Islamabad",
+    "category": "technology",
+    "description": "Join fellow React developers for an evening of learning, networking, and sharing the latest trends in React development.",
+    "fullDescription": "This meetup is perfect for both beginners and experienced React developers. We'll cover the latest features in React 18, discuss best practices, and have hands-on workshops. Network with like-minded developers and expand your knowledge in a collaborative environment.",
+    "organizer": "Islamabad Tech Community",
+    "price": "Free",
+    "highlights": [
+      "React 18 new features workshop",
+      "Networking session with local developers",
+      "Pizza and refreshments included",
+      "Job opportunity discussions"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Digital Marketing Summit",
+    "date": "2025-06-20",
+    "time": "9:00 AM",
+    "location": "Serena Hotel Islamabad",
+    "category": "business",
+    "description": "Learn cutting-edge digital marketing strategies from industry experts. Perfect for business owners and marketing professionals.",
+    "fullDescription": "A comprehensive summit covering SEO, social media marketing, content strategy, and digital advertising. Features keynote speakers from leading tech companies and hands-on workshops to implement what you learn immediately.",
+    "organizer": "Digital Marketing Association",
+    "price": "PKR 5,000",
+    "highlights": [
+      "10+ expert speakers",
+      "Hands-on workshops",
+      "Networking lunch included",
+      "Digital marketing toolkit provided",
+      "Certificate of participation"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Cultural Heritage Festival",
+    "date": "2025-06-25",
+    "time": "4:00 PM",
+    "location": "F-9 Park Islamabad",
+    "category": "culture",
+    "description": "Celebrate Pakistan's rich cultural heritage with traditional music, dance, art exhibitions, and local cuisine.",
+    "fullDescription": "Experience the vibrant culture of Pakistan through traditional performances, art exhibitions, craft workshops, and delicious local food. This family-friendly event celebrates our diverse cultural heritage and brings communities together.",
+    "organizer": "Cultural Society of Islamabad",
+    "price": "Free",
+    "highlights": [
+      "Traditional music and dance performances",
+      "Local art and craft exhibitions",
+      "Traditional food stalls",
+      "Cultural workshops for kids",
+      "Photography contest"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Gaming Tournament 2025",
+    "date": "2025-06-28",
+    "time": "2:00 PM",
+    "location": "Gaming Arena Blue Area",
+    "category": "recreation",
+    "description": "Epic gaming tournament featuring popular esports titles. Compete for prizes and glory in various gaming categories.",
+    "fullDescription": "Join the ultimate gaming competition featuring FIFA, Call of Duty, and League of Legends tournaments. Open to all skill levels with separate amateur and professional categories. Great prizes and trophies await the winners!",
+    "organizer": "Islamabad Gaming Club",
+    "price": "PKR 1,000",
+    "highlights": [
+      "Multiple game tournaments",
+      "Cash prizes worth PKR 100,000",
+      "Professional gaming setups",
+      "Live streaming on Twitch",
+      "Gaming merchandise giveaways"
+    ]
+  }
+]
